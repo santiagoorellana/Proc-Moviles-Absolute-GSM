@@ -23,6 +23,15 @@
 <img width="495" alt="mapa" src="https://github.com/user-attachments/assets/42192cfc-fbf1-4ba7-a75b-cb07b776bc1d" /> 
 <img width="495" alt="informe" src="https://github.com/user-attachments/assets/2ecf2034-5fda-463b-82d4-b4905af0f67c" />
 
+<h1>Quieres hacerlo más rápido?</h1>
+<H3>Si tienes un proceso manual de procesamiento y análisis de datos, de seguro se puede automatizar... escríbeme!</H3>
+
+Santiago Orellana <br>
+Email: <a href="mailto: tecnochago@gmail.com?Subject=Quiero%20un%20bot%20de%20trading"> tecnochago@gmail.com</a><br>
+Whatsapp: <a href="https://wa.me/5354635944?text=Quiero contratar tus servicios">+5354635944</a>
+
+<br><br>
+La Habana, Cuba, 2012 - 2025
 
 
 
