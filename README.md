@@ -1,5 +1,5 @@
 
-<h1>ProcGSM </h1>
+<h1>Proc Moviles Absolute GSM</h1>
 
 <p>Aplicación desktop para facilitar el procesamiento y análisis espacio-temporal de las localizaiones de dispositivos móviles a partir de la ubicación de las celdas de la red celular a la que pertenecen.</p>
 <img width="493" alt="inicio" src="https://github.com/user-attachments/assets/78b09935-657d-4e59-b594-80d6ea81e68d" />
@@ -22,6 +22,7 @@
 <p>Los vínculos se establecen a partir de la coincidencia de dos o mas dispositivos móviles en el mismo rango de tiempo y conectados a la misma celda de la red celular. No implica un contacto físico entre ambos dispositivos, pero si indica una cercanía espacio-temporal. La aplicación cuenta con un mapa digital donde se pueden ver las localizaciones de los dispositivos móviles y sus recorridos por la celdas.</p>
 <img width="495" alt="mapa" src="https://github.com/user-attachments/assets/42192cfc-fbf1-4ba7-a75b-cb07b776bc1d" /> 
 <img width="495" alt="informe" src="https://github.com/user-attachments/assets/2ecf2034-5fda-463b-82d4-b4905af0f67c" />
+
 
 
 
